@@ -1,0 +1,6 @@
+TARGETNAME=sfmSysFreezer
+TARGETTYPE=DRIVER
+DRIVERTYPE=FS
+
+SOURCES=sfmSysFreezer.c FastIo.c
+
